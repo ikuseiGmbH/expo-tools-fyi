@@ -1,4 +1,4 @@
-# Creating Google Service Account
+# Erstellung eines Google-Servicekontos
 
 Wenn Sie Ihre Android-App im Google Play Store mit `eas submit` einreichen möchten, müssen Sie einen Schlüssel für ein Google-Servicekonto erstellen. Diese Seite wird Sie durch diesen Prozess führen.
 
